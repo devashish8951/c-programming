@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+	float f =7.2345
+	
+	printf("The float value is : %f \n", f);
+}
